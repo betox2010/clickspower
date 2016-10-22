@@ -13,9 +13,7 @@ body {
 	width: 100%;
 	height: auto;
 	text-align: center;
-	border-bottom: solid 3px #D6D7DC
-	color: #000
-	
+	border-bottom: solid 1px #D6D7DC
 	}
 
 .txt {
@@ -30,7 +28,19 @@ body {
 	padding-top: 20px
 	}
 
-
 .gas {
-	background-color: #F4F4F4
+	background: #F4F4F4;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	border-bottom: solid 1px #D6D7DC
+	}
+
+
+.morido {
+	background: #DFECF5;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	border-bottom: solid 1px #D6D7DC
 	}
