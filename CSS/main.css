@@ -1,1 +1,36 @@
-main.css
+body { 
+	border:0px;
+	margin:0px;
+	font-size: 22px;
+	letter-spacing: 3px
+	}
+
+.header {
+	font-family: 'BenchNine', sans-serif;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background: white;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	border-bottom: solid 3px #D6D7DC
+	color: #000
+	
+	}
+
+.txt {
+	color: #534E68
+	padding-top: 60px;
+	}
+
+.honor	{
+	color: #8258B6;
+	font-size: 22px;
+	font-weight: bold;
+	padding-top: 20px
+	}
+
+
+.gas {
+	background-color: #F4F4F4
+	}
