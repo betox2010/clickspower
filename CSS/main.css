@@ -17,8 +17,8 @@ body {
 	}
 
 .txt {
+	padding-top: 30px;
 	color: #534E68
-	padding-top: 60px;
 	}
 
 .honor	{
@@ -31,7 +31,6 @@ body {
 .gas {
 	background: #F4F4F4;
 	width: 100%;
-	height: 500px;
 	text-align: center;
 	border-bottom: solid 1px #D6D7DC
 	}
@@ -39,24 +38,31 @@ body {
 
 .morido {
 	background: #DFECF5;
-	width: 100%;
-	height: 500px;
 	text-align: center;
+	width: 100%;
 	border-bottom: solid 1px #D6D7DC
 	}
 
 .amor {
 	background: #DFE0F4;
 	width: 100%;
-	height: 500px;
 	text-align: center;
 	border-bottom: solid 1px #D6D7DC
 	}
 
 .final {
-	background: #DFE0F4;
-	width: 100%;
-	height: auto;
+	background: #8453c8;
+	padding: 5% 25% 3% 25%;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 15px;
+	text-align: justify;
+	color: #271A38
+	}
+
+.honor2 {
+	background: #8453c8;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 20px;
 	text-align: center;
-	border-bottom: solid 1px #D6D7DC
-}
+	color: white
+	}	
