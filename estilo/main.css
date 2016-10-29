@@ -1,0 +1,68 @@
+body { 
+	border:0px;
+	margin:0px;
+	font-size: 22px;
+	letter-spacing: 3px
+	}
+
+.header {
+	font-family: 'BenchNine', sans-serif;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background: white;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	border-bottom: solid 1px #D6D7DC
+	}
+
+.txt {
+	padding-top: 30px;
+	color: #534E68
+	}
+
+.honor	{
+	color: #8258B6;
+	font-size: 22px;
+	font-weight: bold;
+	padding-top: 20px
+	}
+
+.gas {
+	background: #F4F4F4;
+	width: 100%;
+	text-align: center;
+	border-bottom: solid 1px #D6D7DC
+	}
+
+
+.morido {
+	background: #DFECF5;
+	text-align: center;
+	width: 100%;
+	border-bottom: solid 1px #D6D7DC
+	}
+
+.amor {
+	background: #DFE0F4;
+	width: 100%;
+	text-align: center;
+	border-bottom: solid 1px #D6D7DC
+	}
+
+.final {
+	background: #8453c8;
+	padding: 5% 25% 3% 25%;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 15px;
+	text-align: justify;
+	color: #271A38
+	}
+
+.honor2 {
+	background: #8453c8;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color: white
+	}	
